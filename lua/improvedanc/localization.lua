@@ -59,6 +59,64 @@ localify.Bind( "en", prefix.."notif_removed",            "Removed Anti-NoClip" )
 localify.Bind( "en", prefix.."notif_blocked",            "The server has blocked you from performing this action" )
 localify.Bind( "en", prefix.."notif_no_handler",         "This entity does not have anti noclip protection" )
 
+localify.Bind( "bg", prefix.."language_bg", "Български" )
+
+--[[--------------------------------------------------------------------------
+-- English Localization
+--------------------------------------------------------------------------]]--
+
+-- Tool Settings
+localify.Bind( "bg", prefix.."name",                     "Анти-NoClip - Improved" )
+localify.Bind( "bg", prefix.."desc",                     "Забранява на играчите да преминават през обекти" )
+localify.Bind( "bg", prefix.."left",                     "Приложи Защита" )
+localify.Bind( "bg", prefix.."right",                    "Копирай защита" )
+localify.Bind( "bg", prefix.."reload",                   "Премахни защита" )
+-- Errors
+
+-- Labels
+localify.Bind( "bg", prefix.."label_language",           "Език: " )
+localify.Bind( "bg", prefix.."label_credits",            "[BA][Sk$Bh]Trick or treat KID!" )
+localify.Bind( "bg", prefix.."label_affects",            "Приложи ефект(и) to: " )
+localify.Bind( "bg", prefix.."label_effects",            "Ефекти" )
+localify.Bind( "bg", prefix.."label_tooltip_scale",      "Размер подсказка: " )
+localify.Bind( "bg", prefix.."label_halo_color",         "Размер подсветка: " )
+-- Checkboxes
+localify.Bind( "bg", prefix.."checkbox_bounce",          "Отскачане" )
+localify.Bind( "bg", prefix.."checkbox_ignite",          "Запалване" )
+localify.Bind( "bg", prefix.."checkbox_kill",            "Убиване" )
+localify.Bind( "bg", prefix.."checkbox_respawn",         "Прераждане" )
+localify.Bind( "bg", prefix.."checkbox_stripweapons",    "Обезоръжаване" )
+localify.Bind( "bg", prefix.."checkbox_teleport",        "Телепорт" )
+localify.Bind( "bg", prefix.."checkbox_walk",            "Ходене" )
+localify.Bind( "bg", prefix.."checkbox_tooltip_show",    "Винаги показвай подсказка" )
+localify.Bind( "bg", prefix.."checkbox_notifs",          "Показвай уведомления" )
+localify.Bind( "bg", prefix.."checkbox_notifs_sound",    "Свири уведомителни звуци" )
+localify.Bind( "bg", prefix.."checkbox_halo",            "Добави подсветки към парчетата сянка" )
+-- Comboboxes
+localify.Bind( "bg", prefix.."combobox_default",         "По подразбиране" )
+localify.Bind( "bg", prefix.."combobox_affect_self",     "Да влияе само на теб" )
+localify.Bind( "bg", prefix.."combobox_affect_team",     "Да влияе на определен отбор" )
+localify.Bind( "bg", prefix.."combobox_affect_buddies",  "Да влияе само на приятели по строене" )
+localify.Bind( "bg", prefix.."combobox_affect_everyone", "Да влияе на всеки" )
+localify.Bind( "bg", prefix.."combobox_ignore_self",     "Пренебрегни само себе си" )
+localify.Bind( "bg", prefix.."combobox_ignore_admins",   "Пренебрегни само администратори" )
+localify.Bind( "bg", prefix.."combobox_ignore_team",     "Пренебрегни само отбор" )
+localify.Bind( "bg", prefix.."combobox_ignore_buddies",  "Пренебрегни само приятели по строене" )
+-- Descriptions
+localify.Bind( "bg", prefix.."help_tooltip_show",        "Показва подсказката когато анти-noclip инструмента не се използва." )
+localify.Bind( "bg", prefix.."help_tooltip_scale",       "Задава размера на подсказката когато се чертае HUD." )
+localify.Bind( "bg", prefix.."help_notifs",              "Разрешава помощни уведомления при прилагане, копиране, или премахване на noclip защитата." )
+localify.Bind( "bg", prefix.."help_notifs_sound",        "Разрешава уведомителни звуци при прилагане на noclip защитата на обект." )
+-- HUD Text
+
+-- Notifications
+localify.Bind( "bg", prefix.."notif_applied",            "Приложен Анти-NoClip" )
+localify.Bind( "bg", prefix.."notif_copied",             "Копирани Анти-NoClip настройки" )
+localify.Bind( "bg", prefix.."notif_removed",            "Премахнат Анти-NoClip" )
+localify.Bind( "bg", prefix.."notif_blocked",            "Сървъра ви е блокирал да извършите това действие" )
+localify.Bind( "bg", prefix.."notif_no_handler",         "Този обект няма анти-noclip защита" )
+
+
 --[[--------------------------------------------------------------------------
 -- <Other> Localization
 --------------------------------------------------------------------------]]--
