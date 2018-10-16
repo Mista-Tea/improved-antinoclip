@@ -6,6 +6,7 @@
 	
 ### Changelog:
 	- Jan 10th, 2017 :: Added to GitHub
+	- Oct 16th, 2018 :: Translated to Polish
 	
 ### Tweaks:
 	- Added duplicator support (anti-noclip settings are saved across dupes, rather than having to reapply anti-noclip again).
