@@ -100,6 +100,7 @@ if ( SERVER ) then
 			handler:Remove()
 		end
 		
+		duplicator.ClearEntityModifier( ent, "antinoclip_improved" )
 		ent:SetNWString( "AntiNoClipAffect", "" )
 	end
 	
