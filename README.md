@@ -6,6 +6,7 @@
 	
 ### Changelog:
 	- Jan 10th, 2017 :: Added to GitHub
+	- Feb  6th, 2017 :: Translated to Bulgarian by [BA][Sk$Bh]Trick or treat KID!
 	
 ### Tweaks:
 	- Added duplicator support (anti-noclip settings are saved across dupes, rather than having to reapply anti-noclip again).
